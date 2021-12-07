@@ -3,4 +3,4 @@ A small clone of [2048](http://gabrielecirulli.github.io/2048/) by Gabrielle Cir
 
 Inspired by Get Caltech! by Naveen Arun and GetMIT by Mitchell Gu.
 
-[Play it here!](http://getpvi.github.io/GetPVI/)
+[Play it here!](https://getpvi-2048.github.io/getpvi.github.io/)
